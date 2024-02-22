@@ -1,19 +1,5 @@
 # JavaCollabExercise
 
-## Creación y Clonación de Repositorios
-
-Inicia un nuevo repositorio de Git en tu directorio actual:
-
-```sh
-git init
-
-## Clona un repositorio existente en GitHub a tu máquina local:
-```sh
-git clone https://github.com/username/repo.git
-
-
-# JavaCollabExercise
-
 Este es un ejercicio colaborativo para aprender a usar Git y GitHub en el contexto de un proyecto de Java.
 
 ## Configuración Inicial de Git
